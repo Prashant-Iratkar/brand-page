@@ -1,0 +1,35 @@
+.brand-icons img{
+    height: 65px;
+    width: 65px;
+}
+
+.hero{
+    display: flex;
+    max-width: 1280px;
+    margin: 0 auto;
+    align-items: center;
+}
+
+.hero-content h1{
+    font-size: 45px;
+}
+
+.hero-content p{
+    font-size: 22px;
+}
+
+button{
+    all: unset;
+    padding: 6px 16px;
+    background-color: red;
+    height: 32px;
+    color: white;
+    font-weight: 500;
+    border: 2px solid black;
+    margin: 10px;
+  }
+
+  .hero-image img{
+    height: 600px;
+    
+  }
